@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=ELORCHI&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=ELORCHI&style=flat-square&color=blue" alt=""/>
