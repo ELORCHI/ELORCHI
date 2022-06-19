@@ -33,3 +33,8 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
   </h1>
 </div>
+
+---
+### :technologist: About me :
+I am a student at 1337 (42 network)
+
