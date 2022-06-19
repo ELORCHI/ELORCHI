@@ -36,4 +36,6 @@ Here are some ideas to get you started:
 
 ---
 ### :technologist: About me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a student at 1337 (42 network) I am looking for an internship in DevOps field. I've been using  variety of programming languages and technologies, including C, C++, Docker,  Docker-compose
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a student at 1337 (42 network) I am looking for an internship in DevOps field. I've been using  variety of programming languages and technologies, including C, C++, Docker,  Docker-compose.
+
+:telescope: I am learning AWS Jenkis GitLab
