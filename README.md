@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 ---
 ### :technologist: About me :
-I am a student at 1337 (42 network)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a student at 1337 (42 network)
 
