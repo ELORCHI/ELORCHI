@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/elmehdi-elorchi/">
-    <img style="  margin: 25px 50px 25px 25px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ELORCHI&style=flat-square&color=blue"  width="100" alt=""/>
-</div>
 
+<img src="https://komarev.com/ghpvc/?username=ELORCHI&style=flat-square&color=blue"  width="100" alt=""/>
